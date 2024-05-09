@@ -1,0 +1,9 @@
+#!/bin/bash
+# Check if an argument is provided
+if [ -z "$1" ]; then
+	echo "Usage: $0 <hostname or IP address>"
+	exit 1
+fi
+
+# Run the ping command with the provided argument
+ping -c 5 "$1"
