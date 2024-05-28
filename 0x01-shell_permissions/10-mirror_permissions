@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp $(stat -c "%g" olleh) hello
