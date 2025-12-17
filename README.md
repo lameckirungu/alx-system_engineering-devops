@@ -1,8 +1,8 @@
-# alx-system_engineering-devops
+# ALX System Engineering DevOps
 
 ## Overview
 
-This repository contains foundational material and exercises for learning **Shell Basics** as part of the ALX Software Engineering curriculum. All projects and scripts here are designed to help you understand and master the essential commands, concepts, and skills needed to work efficiently with the Unix/Linux shell.
+This repository contains foundational material and exercises for learning **Shell Scripting** as part of the ALX Software Engineering curriculum. All projects and scripts here are designed to help you understand and master the essential commands, concepts, and skills needed to work efficiently with the Unix/Linux shell.
 
 ## Table of Contents
 
